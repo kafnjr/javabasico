@@ -1,40 +1,40 @@
 ### Eclipse ###
 
 .metadata
-bin /
-tmp /
-* .tmp
-* .bak
-* .swp
-* ~ .nib
-propriedades locais
-.configurações/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
 .loadpath
 .recommenders
 
-# Construtores de ferramentas externas
-.externalToolBuilders /
+# External tool builders
+.externalToolBuilders/
 
-# Configurações de inicialização do Eclipse armazenadas localmente
-*.lançamento
+# Locally stored "Eclipse launch configurations"
+*.launch
 
-# PyDev específico (Python IDE para Eclipse)
-* .pydevproject
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
 
-# CDT específico (C / C ++ Development Tooling)
+# CDT-specific (C/C++ Development Tooling)
 .cproject
 
-# Processador de anotação Java (APT)
-Caminho de fábrica
+# Java annotation processor (APT)
+.factorypath
 
 # PDT-specific (PHP Development Tools)
 .buildpath
 
 # sbteclipse plugin
-.alvo
+.target
 
 # Tern plugin
-projeto .tern
+.tern-project
 
 # TeXlipse plugin
 .texlipse
@@ -43,40 +43,38 @@ projeto .tern
 .springBeans
 
 # Code Recommenders
-.recommenders /
+.recommenders/
 
-# Scala IDE específico (desenvolvimento Scala e Java para o Eclipse)
+# Scala IDE specific (Scala & Java development for Eclipse)
 .cache-main
 .scala_dependencies
-folha de trabalho
+.worksheet
 
 ### Eclipse Patch ###
 # Eclipse Core		
-.projeto
+.project
 
 # JDT-specific (Eclipse Java Development Tools)		
 .classpath
 
 ### Java ###
-# Arquivo de classe compilado
-*.classe
+# Compiled class file
+*.class
 
-# Arquivo de log
-*.registro
+# Log file
+*.log
 
-# Arquivos BlueJ
-* .ctxt
+# BlueJ files
+*.ctxt
 
-# Ferramentas móveis para Java (J2ME)
-.mtj.tmp /
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
-# Pacote de arquivos #
-* .jar
-*.guerra
-*.orelha
-*.fecho eclair
-* .tar.gz
-* .rar
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
 
-# logs de interrupção da máquina virtual, veja http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid *
