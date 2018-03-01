@@ -8,24 +8,24 @@ tmp /
 * .swp
 * ~ .nib
 propriedades locais
-.configurações/
+.configuraÃ§Ãµes/
 .loadpath
 .recommenders
 
 # Construtores de ferramentas externas
 .externalToolBuilders /
 
-# Configurações de inicialização do Eclipse armazenadas localmente
-*.lançamento
+# ConfiguraÃ§Ãµes de inicializaÃ§Ã£o do Eclipse armazenadas localmente
+*.lanÃ§amento
 
-# PyDev específico (Python IDE para Eclipse)
+# PyDev especÃ­fico (Python IDE para Eclipse)
 * .pydevproject
 
-# CDT específico (C / C ++ Development Tooling)
+# CDT especÃ­fico (C / C ++ Development Tooling)
 .cproject
 
-# Processador de anotação Java (APT)
-Caminho de fábrica
+# Processador de anotaÃ§Ã£o Java (APT)
+Caminho de fÃ¡brica
 
 # PDT-specific (PHP Development Tools)
 .buildpath
@@ -45,7 +45,7 @@ projeto .tern
 # Code Recommenders
 .recommenders /
 
-# Scala IDE específico (desenvolvimento Scala e Java para o Eclipse)
+# Scala IDE especÃ­fico (desenvolvimento Scala e Java para o Eclipse)
 .cache-main
 .scala_dependencies
 folha de trabalho
@@ -57,17 +57,17 @@ folha de trabalho
 # JDT-specific (Eclipse Java Development Tools)		
 .classpath
 
-### Java ###
+### Java ###*
 # Arquivo de classe compilado
 *.classe
 
-# Arquivo de log
+# Arquivo de logsss
 *.registro
 
 # Arquivos BlueJ
 * .ctxt
 
-# Ferramentas móveis para Java (J2ME)
+# Ferramentas mÃ³veis para Java (J2ME)
 .mtj.tmp /
 
 # Pacote de arquivos #
@@ -78,5 +78,5 @@ folha de trabalho
 * .tar.gz
 * .rar
 
-# logs de interrupção da máquina virtual, veja http://www.java.com/en/download/help/error_hotspot.xml
+# logs de interrupÃ§Ã£o da mÃ¡quina virtual, veja http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid *
