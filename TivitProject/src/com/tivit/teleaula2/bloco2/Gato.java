@@ -40,7 +40,7 @@ public class Gato {
 	}
 
 	public void setPeso(int peso) {
-		if (peso > 0){
+		if (peso > 0 && peso < 20){
 		this.peso = peso;
 		}else{
 			this.peso = 5;

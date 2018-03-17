@@ -5,7 +5,7 @@ public class GatoTest {
 		Gato gato = new Gato();
 		gato.setIdade(24);
 		gato.setNome("Vanderlei");
-		gato.setPeso(10);
+		gato.setPeso(7);
 		gato.setRaca("vira lata");
 		
 		gato.falaNome();
@@ -13,7 +13,7 @@ public class GatoTest {
 		Gato gato2 = new Gato();
 		gato2.setIdade(18);
 		gato2.setNome("Fabio");
-		gato2.setPeso(65);
+		gato2.setPeso(4);
 		gato2.setRaca("siames");
 		
 		gato2.falaNome();
