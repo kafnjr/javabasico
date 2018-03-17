@@ -4,13 +4,10 @@ public class Dog {
 	private int size;
 	private String name;
 	
-	public void bark(){
-		if (size > 60){
+	public void bark(int numOfBarks){
+		while (numOfBarks > 0){
 			System.out.println("Woooof! Woooof!");
-		}else if(size > 14){
-			System.out.println("Roof! Roof!");
-		}else{
-			System.out.println("Yip! Yip!");
+			numOfBarks-=1;
 		}
 	}
 

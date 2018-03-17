@@ -6,6 +6,6 @@ public class DogTeste {
 		cachorro.setName("Totó");
 		cachorro.setSize(13);
 		
-		cachorro.bark();
+		cachorro.bark(4);
 	}
 }
